@@ -19,5 +19,5 @@ As for the future work, first, this study focuses building CNN models classifyin
 
 Our group has learned a lot by doing this research through knowing further about using Pytorch to exert different data augmentation techniques to process a image, write the Convolution Neural Network and use SGD to optimize the training process.
 
-## Demo:
+## Demo
 [Cat & Dog Classifier](https://huggingface.co/spaces/yuhe6/final_project)
